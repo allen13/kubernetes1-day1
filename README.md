@@ -77,7 +77,7 @@ Install and start docker so you can start playing with it
 * [Install Docker Desktop on Mac](https://docs.docker.com/docker-for-mac/install/)
 * [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/)
 
-Once docker has been installed go into settings and enable the kubernetes checkbox. Wait for it to start. It will also install `kubectl` for interacting with kubernets.
+Once docker has been installed go into settings and enable the kubernetes checkbox. Wait for it to start. It will also install `kubectl` for interacting with kubernetes.
 
 It is also acceptable to use mini-kube or any other kubernetes cluster you can access for this class.
 
