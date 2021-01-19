@@ -81,6 +81,11 @@ Once docker has been installed go into settings and enable the kubernetes checkb
 
 It is also acceptable to use mini-kube or any other kubernetes cluster you can access for this class.
 
+Past install issues:
+
+* https://github.com/docker/for-mac/issues/3327
+* https://github.com/docker/for-mac/issues/5027#issuecomment-718076014
+
 deploy your first kubernetes app
 --------------------------------
 
