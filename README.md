@@ -66,7 +66,7 @@ The Illustrated Children’s Guide to Kubernetes is a simple, gentle answer a fa
 The star of The Illustrated Children’s Guide to Kubernetes, Phippy and her friends explain the core concepts of Kubernetes in simple terms.
 
 Links:
-* [the-childrens-illustrated-guide-to-kubernetes](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/)
+* [the-childrens-illustrated-guide-to-kubernetes](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/)
 
 
 install docker
